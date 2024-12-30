@@ -84,15 +84,15 @@ export const Default = (props: PageBackgroundProps): JSX.Element => {
                     </p>
                   </div>
                 </div>
-                <h2>Ingredients<h2/>
+                <h2>Ingredients</h2>
                 <div className="article-content-body mt-5">
                   <RichText field={props.fields.Ingredients} />
                 </div>
-                <h2>Cooking Instructions<h2/>
+                <h2>Cooking Instructions</h2>
                 <div className="article-content-body mt-5">
                   <RichText field={props.fields.CookingInstructions} />
                 </div>
-                <h2>Nutritional Facts<h2/>
+                <h2>Nutritional Facts</h2>
                 <div className="article-content-body mt-5">
                   <RichText field={props.fields.NutritionalFacts} />
                 </div>
