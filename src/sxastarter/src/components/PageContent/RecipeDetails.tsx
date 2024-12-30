@@ -1,12 +1,12 @@
 import React from 'react';
 import {
   Field,
-  ImageField,
   Placeholder,
   Text,
   RichText,
   RichTextField,
-  NextImage,
+  Image,
+  ImageField,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
 import { ParallaxBackgroundImage } from 'components/NonSitecore/ParallaxBackgroundImage';
@@ -60,7 +60,7 @@ export const Default = (props: PageBackgroundProps): JSX.Element => {
               <div className="article-content">
                 <div className="row row-gap-4 gx-5">
                   <div className="col-12 col-lg-6">
-                    <NextImage
+                    <Image
                       field={props.fields.Thumbnail}
                       className="article-img img-fluid"
                       width={600}
