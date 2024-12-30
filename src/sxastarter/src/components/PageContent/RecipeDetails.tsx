@@ -68,19 +68,22 @@ export const Default = (props: PageBackgroundProps): JSX.Element => {
                     />
                   </div>
                   <div className="col-12 col-lg-6">
-                    <div className="row">
-                      <Placeholder name="article-meta" rendering={props.rendering} />
-                    </div>
-                    <div className="row article-content-body">
-                      <div className="col-12 col-lg-3">
+                    <div
+                      style="background-color:white; padding:.75rem; margin-bottom:1rem; border-radius:10px;"
+                      className="row article-content-body"
+                    >
+                      <div className="col-12 col-lg-4">
                         Prep time: <Text field={props.fields.PrepTime} />
                       </div>
-                      <div className="col-12 col-lg-3">
+                      <div className="col-12 col-lg-4">
                         Cook time: <Text field={props.fields.CookTime} />
                       </div>
-                      <div className="col-12 col-lg-3">
+                      <div className="col-12 col-lg-4">
                         Servings: <Text field={props.fields.Servings} />
                       </div>
+                    </div>
+                    <div className="row">
+                      <Placeholder name="article-meta" rendering={props.rendering} />
                     </div>
                     <h1 className="article-title">
                       <Text field={props.fields.Title} />
