@@ -69,7 +69,12 @@ export const Default = (props: PageBackgroundProps): JSX.Element => {
                   </div>
                   <div className="col-12 col-lg-6">
                     <div
-                      style="background-color:white; padding:.75rem; margin-bottom:1rem; border-radius:10px;"
+                      style={{
+                        backgroundColor: 'white',
+                        padding: '0.75rem',
+                        marginBottom: '1rem',
+                        borderRadius: '10px',
+                      }}
                       className="row article-content-body"
                     >
                       <div className="col-12 col-lg-4">
