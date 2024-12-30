@@ -87,7 +87,6 @@ export const Default = (props: PageBackgroundProps): JSX.Element => {
                     >
                       <div style={{ fontSize: '80%' }} className="col-12 col-lg-4">
                         Prep time: <Text field={props.fields.PrepTime} />
-                        font-size: 80%;
                       </div>
                       <div style={{ fontSize: '80%' }} className="col-12 col-lg-4">
                         Cook time: <Text field={props.fields.CookTime} />
