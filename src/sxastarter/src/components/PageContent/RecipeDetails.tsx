@@ -71,10 +71,16 @@ export const Default = (props: PageBackgroundProps): JSX.Element => {
                     <div className="row">
                       <Placeholder name="article-meta" rendering={props.rendering} />
                     </div>
-                    <div className="row">
-                      Prep time: <Text field={props.fields.PrepTime} />
-                      Cook time: <Text field={props.fields.CookTime} />
-                      Servings: <Text field={props.fields.Servings} />
+                    <div className="row article-content-body">
+                      <div className="col-12 col-lg-3">
+                        Prep time: <Text field={props.fields.PrepTime} />
+                      </div>
+                      <div className="col-12 col-lg-3">
+                        Cook time: <Text field={props.fields.CookTime} />
+                      </div>
+                      <div className="col-12 col-lg-3">
+                        Servings: <Text field={props.fields.Servings} />
+                      </div>
                     </div>
                     <h1 className="article-title">
                       <Text field={props.fields.Title} />
@@ -84,16 +90,16 @@ export const Default = (props: PageBackgroundProps): JSX.Element => {
                     </p>
                   </div>
                 </div>
-                <h2>Ingredients</h2>
                 <div className="article-content-body mt-5">
+                  <h2>Ingredients</h2>
                   <RichText field={props.fields.Ingredients} />
                 </div>
-                <h2>Cooking Instructions</h2>
                 <div className="article-content-body mt-5">
+                  <h2>Cooking Instructions</h2>
                   <RichText field={props.fields.CookingInstructions} />
                 </div>
-                <h2>Nutritional Facts</h2>
                 <div className="article-content-body mt-5">
+                  <h2>Nutritional Facts</h2>
                   <RichText field={props.fields.NutritionalFacts} />
                 </div>
               </div>
