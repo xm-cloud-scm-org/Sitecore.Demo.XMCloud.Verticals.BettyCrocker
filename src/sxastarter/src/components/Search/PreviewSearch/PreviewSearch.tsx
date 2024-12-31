@@ -73,7 +73,7 @@ export const PreviewSearchComponent = ({
   const keyphraseHandler = useCallback(
     (event: ChangeEvent<HTMLInputElement>) => {
       const target = event.target;
-      if (target.value?.search('how do I cook pancakes') !== -1) {
+      if (target.value?.toLowerCase().search('how do i cook pancake') !== -1) {
         setHasAnswer(true);
       } else {
         setHasAnswer(false);
