@@ -127,7 +127,7 @@ export const PreviewSearchComponent = ({
           <>
             {hasAnswer && (
               <div className="position-left sitecore-preview-search-answer">
-                <h3>How do I cook pancackes?</h3>
+                <h3>How do I cook pancakes?</h3>
                 <p>
                   Mix flour, baking powder, sugar, milk, eggs, and melted butter into a smooth
                   batter, then let it rest for a few minutes. Pour the batter onto a hot, greased
