@@ -1,0 +1,31 @@
+﻿---
+ID: "a417e822-faf6-4d40-a108-fce0df726acc"
+Parent: "c04a9108-201d-4049-9259-9e37abcf433d"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Verticals/BettyCrocker/Data/Button Styles/Main
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/button.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "98c81cba-13e8-410a-a230-1cb17a7afa10"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c6bce44-554f-4ec9-ac0d-eb8c1b8c1e82"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c6bce44-554f-4ec9-ac0d-eb8c1b8c1e82"

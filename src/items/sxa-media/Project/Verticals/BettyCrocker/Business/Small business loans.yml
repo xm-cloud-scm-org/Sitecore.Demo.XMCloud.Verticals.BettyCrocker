@@ -1,0 +1,17 @@
+﻿---
+ID: "63d422a2-d9e8-40ad-a284-dc6129d8bbab"
+Parent: "c0dda22a-c95d-42e7-a8c3-dc28f5db02c1"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/BettyCrocker/Business/Small business loans
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ddf7803-5c14-430e-81a4-439e70c2725c"

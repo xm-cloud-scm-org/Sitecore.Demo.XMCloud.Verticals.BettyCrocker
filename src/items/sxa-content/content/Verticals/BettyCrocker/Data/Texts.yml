@@ -1,0 +1,27 @@
+﻿---
+ID: "03155b51-e272-430b-8b73-561265a0210a"
+Parent: "78bccee5-fead-4ca7-8776-4ca0985a922c"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: /sitecore/content/Verticals/BettyCrocker/Data/Texts
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8668eda3-af58-4600-bc1a-defc74ec34c1"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d942d9bf-9a31-40bf-95d7-de81ddae0406"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d942d9bf-9a31-40bf-95d7-de81ddae0406"

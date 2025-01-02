@@ -1,0 +1,35 @@
+﻿---
+ID: "5fa41d5a-45db-40ae-bc26-70cb6adeb8d1"
+Parent: "6c1f25ce-9dc4-4905-8ceb-6d119ffb1580"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: /sitecore/content/Verticals/BettyCrocker/Presentation/Page Designs/Recipe Page
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{AC280785-6DF8-4DB5-A4FB-BAAC204F460A}|{4F45C5A4-EE95-4E98-9462-2DAE432B809F}|{2484980D-CC18-41C1-A493-998240EFBD9B}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{DB5F5C7B-4C89-46B0-99AB-1754DAE0EB8E}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d3bbe005-7cec-420d-bbe1-cc8fcbed50ef"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7fcc8afe-fd84-4530-9317-c31658bb9022"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "991fcaf1-2ba2-4a06-bd95-9a6ffc80f311"

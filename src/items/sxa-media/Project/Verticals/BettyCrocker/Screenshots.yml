@@ -1,0 +1,17 @@
+﻿---
+ID: "5e671a12-9062-4a49-9a2a-698a7224fcbf"
+Parent: "1a08f419-64d0-4d0e-b2e1-b0641eda8548"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/BettyCrocker/Screenshots
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "480f990f-0b98-42d4-a382-1e553bdd8899"

@@ -1,0 +1,27 @@
+﻿---
+ID: "5ae7de13-504d-4cb2-90f5-1bf03bf72fd2"
+Parent: "d2d67fda-7e70-49e9-95fe-004cc8a544fb"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/BettyCrocker/Home/recipes/five-tips-for-new-retirees/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f1742bee-1b3d-4c72-b62c-88ddecb1a973"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f625de0f-d4d8-4662-bc69-05aa8ad08db3"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f625de0f-d4d8-4662-bc69-05aa8ad08db3"

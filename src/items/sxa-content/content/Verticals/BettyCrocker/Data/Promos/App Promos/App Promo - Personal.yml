@@ -1,0 +1,84 @@
+﻿---
+ID: "9b9aebd2-16be-4fc7-a465-21d5629cefbb"
+Parent: "6996aa5d-0524-4590-b60f-dedc64cbe29a"
+Template: "bbcccd48-218c-4f19-a1d4-bb3dbf1f4d89"
+Path: "/sitecore/content/Verticals/BettyCrocker/Data/Promos/App Promos/App Promo - Personal"
+SharedFields:
+- ID: "23fec4a6-1e53-4d30-8bb4-1a08632f3545"
+  Hint: Image
+  Value: |
+    <image mediaid="{33CB3F40-C70A-489E-8409-E7EB66BD8FD4}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19611527-1e31-4490-8042-482e61e3ce84"
+      Hint: Text
+      Value: |
+        <p>Get the latest recipes delivered right to your inbox, for FREE! If you aren't satisfied, you can unsubscribe at any time.</p>
+        
+        <p>
+        <div class="anonymousNewsletterSignup anonymousSignupContainer"><form class="anonymousSignup"><!----> <div class="fieldContainer"><label class="anonymousEmailWrapper"><span class="hintText"><strong>Your Email Address</strong><span aria-hidden="true">*</span></span>
+        <br />
+        <input type="email" maxlength="255" placeholder="" class="anonymousEmail" /><div data-lastpass-icon-root="" style="position: relative !important; height: 0px !important; width: 0px !important; float: left !important; margin-bottom: 8px; margin-top: 8px;"></div></label> <!----> <!----></div>
+        
+        <div class="legalText" style="font-size: 0.85rem;">By signing up, you accept our&nbsp;<a rel="noopener noreferrer" href="https://www.generalmills.com/privacy-security/us-english-privacy-policy" target="_blank"><span style="text-decoration: underline;">Privacy Policy</span></a>&nbsp;and agree that your information may be used across our&nbsp;<a rel="noopener noreferrer" href="https://www.generalmills.com/food-we-make/brands" target="_blank"><span style="text-decoration: underline;">family of brands</span>.</a></div>
+        <br />
+        <button type="submit" class="anonymousSubscribeButton" style="color: #fff;background: #0000b4;font-size: 1.3rem;border:0; border-radius:3px;">Sign up now</button></form> <!----></div>
+        </p>
+        <br /><br />
+    - ID: "1f0455dc-9254-4487-b94d-6c66f103e7bf"
+      Hint: Title
+      Value: "Recipe inspiration for all the celebrations in your life!"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "67501b2d-55db-48eb-a14b-501a6c1f8a4e"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19611527-1e31-4490-8042-482e61e3ce84"
+      Hint: Text
+      Value: |
+        <p>Voici votre nouveau compagnon financier pour vous aider au quotidien avec l'&eacute;pargne, l'investissement, le paiement des factures et bien plus encore.</p>
+        <div class="container">
+        <div class="row  row-gap-3">
+        <div class="col-sm">
+        <a rel="noopener noreferrer" href="http://www.sitecore.com" target="_blank"><img alt="" src="-/media/FEAF65D3394846DAB95213780D61AADA.ashx?h=46&amp;w=150" style="height: 46px; width: 150px;" /></a></div>
+        <div class="col-sm">
+        <a rel="noopener noreferrer" href="http://www.sitecore.com" target="_blank"><img alt="Google Play" src="-/media/DCDCD7A8F8DA4110BA4FD19FEFFD1465.ashx?h=46&amp;w=150" style="height: 46px; width: 150px;" /></a></div>
+        <div class="col-sm">
+        <a rel="noopener noreferrer" href="http://www.sitecore.com" target="_blank"><img alt="" src="-/media/3FB814AFD8E846FF9BFD4312B2213EC4.ashx?h=44&amp;w=150" style="height: 44px; width: 150px;" /></a></div>
+        </div>
+        </div>
+    - ID: "1f0455dc-9254-4487-b94d-6c66f103e7bf"
+      Hint: Title
+      Value: Dites bonjour à la banque pratique avec notre application mobile.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17b5742f-5855-4837-9538-fdbe134cc32c"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19611527-1e31-4490-8042-482e61e3ce84"
+      Hint: Text
+      Value: |
+        <p>貯蓄、投資、請求書の支払いなど、毎日の生活をサポートする新しいファイナンシャル・コンパニオンをご紹介します。</p>
+        <div class="container">
+        <div class="row  row-gap-3">
+        <div class="col-sm">
+        <a rel="noopener noreferrer" href="http://www.sitecore.com" target="_blank"><img alt="" src="-/media/FEAF65D3394846DAB95213780D61AADA.ashx?h=46&amp;w=150" style="height: 46px; width: 150px;" /></a></div>
+        <div class="col-sm">
+        <a rel="noopener noreferrer" href="http://www.sitecore.com" target="_blank"><img alt="Google Play" src="-/media/DCDCD7A8F8DA4110BA4FD19FEFFD1465.ashx?h=46&amp;w=150" style="height: 46px; width: 150px;" /></a></div>
+        <div class="col-sm">
+        <a rel="noopener noreferrer" href="http://www.sitecore.com" target="_blank"><img alt="" src="-/media/3FB814AFD8E846FF9BFD4312B2213EC4.ashx?h=44&amp;w=150" style="height: 44px; width: 150px;" /></a></div>
+        </div>
+        </div>
+    - ID: "1f0455dc-9254-4487-b94d-6c66f103e7bf"
+      Hint: Title
+      Value: モバイルアプリケーションで便利なバンキングを
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e62ac9de-5ced-4483-bac3-6483c19c6d00"

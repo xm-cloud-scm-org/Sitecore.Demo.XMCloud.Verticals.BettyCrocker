@@ -1,0 +1,34 @@
+﻿---
+ID: "fee79d4f-7de4-44e3-8b44-35f73682b147"
+Parent: "48ba97d8-62c3-4914-a32b-061877dc4f45"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Verticals/BettyCrocker/Presentation/Styles/Theming/Full Width
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "full-width"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Value: "{20E5EA95-6B50-49CD-8852-433B7C565F06}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74dd2dbe-e142-453f-8931-5853d1cf1abb"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5393486b-a561-4085-a298-5eb2897a9d05"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5393486b-a561-4085-a298-5eb2897a9d05"

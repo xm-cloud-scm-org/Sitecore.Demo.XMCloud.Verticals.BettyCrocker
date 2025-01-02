@@ -1,0 +1,27 @@
+﻿---
+ID: "82237a5c-5064-45ac-85f1-d27a8cf53cb5"
+Parent: "55806b83-d9ab-4b80-b84e-708eb25ace24"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/BettyCrocker/Home/recipes/exploring-the-use-of-blockchain-technology/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3d337be9-6afe-49ea-9505-2dc6bc052c0f"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c01178a-830d-455f-a7a0-c7d2b368aea0"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c01178a-830d-455f-a7a0-c7d2b368aea0"

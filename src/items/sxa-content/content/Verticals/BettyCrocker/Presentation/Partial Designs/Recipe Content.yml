@@ -1,0 +1,63 @@
+﻿---
+ID: "4f45c5a4-ee95-4e98-9462-2dae432b809f"
+Parent: "01599142-13f0-4059-b314-ac61e6475f89"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/Verticals/BettyCrocker/Presentation/Partial Designs/Recipe Content
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "article-content"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{1715AE92-D47C-4224-944E-18A2DD0D7FF9}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F59395FE-244D-4421-84E9-B681C40B8633}"
+          p:before="*"
+          s:id="{663EEECE-1B27-4849-840F-B2E6151A70EF}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{4E94E9C6-404D-4A6D-B2C9-8228624577AC}"
+          p:after="r[@uid='{F59395FE-244D-4421-84E9-B681C40B8633}']"
+          s:id="{613A1798-71DD-4A5C-A183-A3BAB92289C4}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/page-navigation-0-1" />
+        <r
+          uid="{8200A5AF-F2E1-4C9C-AA82-04215D198C35}"
+          p:after="*[1=2]"
+          s:ds="{9B9AEBD2-16BE-4FC7-A465-21D5629CEFBB}"
+          s:id="{F9905F68-21E8-4C6F-8B89-56BB99020D31}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b87e6452-59c8-4951-8bd5-1a46c6ae5982"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "61e6029a-ab72-49e9-9e1d-7d645fc5c3b1"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df33c92e-8295-47fb-ade6-1e7817cc69c9"

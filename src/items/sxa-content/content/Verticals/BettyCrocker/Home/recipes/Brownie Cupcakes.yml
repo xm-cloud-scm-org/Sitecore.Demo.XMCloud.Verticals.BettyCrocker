@@ -1,0 +1,50 @@
+﻿---
+ID: "91eef29e-a515-4ae8-94c8-6fec96c44bd1"
+Parent: "0921a796-624b-48f3-9115-865231da05c0"
+Template: "e6856581-a59f-4eb6-97d9-3c78826f24fc"
+Path: /sitecore/content/Verticals/BettyCrocker/Home/recipes/Brownie Cupcakes
+SharedFields:
+- ID: "5e387695-9a7c-4e82-a89c-8384928af97c"
+  Hint: Thumbnail
+  Value: 
+- ID: "9b0343a9-9f69-4e0f-a059-9215bc8fe422"
+  Hint: EntityIdentifier
+  Value: U7ddUvmjRjCR80UMx7234w
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Brownie Cupcakes
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14ed42a8-e7fd-4164-9f77-d1f041ec8693"
+      Hint: Title
+      Value: Brownie Cupcakes
+    - ID: "2442a61e-1deb-4e72-9dc5-8fed8406dc71"
+      Hint: TotalTime
+      Value: 90
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Brownie Cupcakes
+    - ID: "7a3d5840-19ca-4e0b-86ad-5b84551fba64"
+      Hint: Ingredients
+      Value: |
+        <p><span style="color:rgb(51,51,51);">1 </span><a href="https://www.bettycrocker.com/products/betty-crocker-brownies-and-dessert-bars/fudge-brownie"><span style="color:rgb(51,51,51);"><strong><u>box Betty Crocker™ Fudge Brownie Mix</u></strong></span></a></p><p><span style="color:rgb(51,51,51);">Water, vegetable oil and eggs called for on brownie mix box</span></p>
+    - ID: "7e59e6c1-bef8-4c92-a4fe-fd68eeb9c06d"
+      Hint: PrepTime
+      Value: 15
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ddaca3cb-8d40-4436-8fc4-69e45dde91fb"
+    - ID: "c2326bf1-edc6-4c01-94e7-6458b2fedeb6"
+      Hint: CookingInstructions
+      Value: |
+        <p style="margin-left:0px;"><strong>Step 1</strong></p><p style="margin-left:0px;">Heat oven to 350°. Place paper baking cup in each of 18 regular-size muffin cups. Make batter as directed on brownie mix box. Fill each cup 2/3 full (about 3 tablespoons each).</p><p style="margin-left:0px;"><strong>Step 2</strong></p><p style="margin-left:0px;">Bake 22 to 26 minutes or until toothpick inserted near edge comes out almost clean. Do not overbake. Cool 5 minutes; remove from pan. Cool completely. Frost and decorate as desired. Store covered.</p>
+    - ID: "f5960e1a-7b8a-4595-8572-e9eebb4a5147"
+      Hint: Servings
+      Value: 18
+    - ID: "fb7762da-3fb3-4af3-be31-91739fabaa7c"
+      Hint: CookTime
+      Value: 26

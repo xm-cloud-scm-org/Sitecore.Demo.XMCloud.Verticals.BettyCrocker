@@ -1,0 +1,27 @@
+﻿---
+ID: "cb9881f4-2be7-4358-8f01-b4e411a11a29"
+Parent: "ce01bcf8-b9c0-44fa-9bbc-ad3fb1baaba4"
+Template: "267d9ac7-5d85-4e9d-af89-99ab296cc218"
+Path: /sitecore/content/Verticals/BettyCrocker/42b3c225d0b647f882705b5f9a8c720f/Financial
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19666f99-797e-492e-bfe0-87d6370e0d28"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b2c3c982-4ab4-4152-8469-97fe49555e4e"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b2c3c982-4ab4-4152-8469-97fe49555e4e"

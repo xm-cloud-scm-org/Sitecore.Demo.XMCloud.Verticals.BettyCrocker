@@ -1,0 +1,27 @@
+﻿---
+ID: "034e412a-03d5-47f7-b041-9c87fb51c2ac"
+Parent: "78bccee5-fead-4ca7-8776-4ca0985a922c"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Verticals/BettyCrocker/Data/Promos
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8178dc6e-f506-4f48-8eea-fdae59e63d80"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "491cdebd-157d-412d-8c5f-0208065677e5"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "491cdebd-157d-412d-8c5f-0208065677e5"

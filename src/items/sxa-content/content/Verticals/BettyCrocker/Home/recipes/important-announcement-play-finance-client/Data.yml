@@ -1,0 +1,27 @@
+﻿---
+ID: "b8f0801c-bb88-4007-ae33-14b55d39949d"
+Parent: "1a08cb98-70c8-4a55-add9-cbc0ec947eb7"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/BettyCrocker/Home/recipes/important-announcement-play-finance-client/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "18a6489f-6ba4-478d-9b31-8487c78efbfc"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e011df2c-2d66-4a2f-80fb-129002aa166e"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e011df2c-2d66-4a2f-80fb-129002aa166e"

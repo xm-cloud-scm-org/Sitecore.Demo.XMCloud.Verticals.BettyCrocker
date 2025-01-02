@@ -1,0 +1,17 @@
+﻿---
+ID: "8c4ce1c4-8ae4-4470-9ba3-10a2167ca6e4"
+Parent: "78985ee5-0fc8-4b56-9704-fc8d09ae4124"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/BettyCrocker/Home page/Carousels
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed62a8fc-0872-4c4b-be7b-1bd507a72c33"

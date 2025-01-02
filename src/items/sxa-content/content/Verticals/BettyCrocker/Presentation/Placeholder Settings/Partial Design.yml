@@ -1,0 +1,27 @@
+﻿---
+ID: "ea4e5be2-a600-467c-8d60-17b9b6dc91fc"
+Parent: "7b733f25-28cc-449b-a8a4-72812ffd51d8"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: /sitecore/content/Verticals/BettyCrocker/Presentation/Placeholder Settings/Partial Design
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a0c40ac-9378-41b7-8d21-a1a66fbbc200"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c190dd23-ba4b-4154-a4a7-3389c598315e"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c190dd23-ba4b-4154-a4a7-3389c598315e"

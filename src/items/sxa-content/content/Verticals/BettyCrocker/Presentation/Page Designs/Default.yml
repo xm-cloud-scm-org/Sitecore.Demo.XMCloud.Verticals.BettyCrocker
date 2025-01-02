@@ -1,0 +1,35 @@
+﻿---
+ID: "d674a035-a218-4a78-8de4-ed8bc7d28a7b"
+Parent: "6c1f25ce-9dc4-4905-8ceb-6d119ffb1580"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: /sitecore/content/Verticals/BettyCrocker/Presentation/Page Designs/Default
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{AC280785-6DF8-4DB5-A4FB-BAAC204F460A}|{2484980D-CC18-41C1-A493-998240EFBD9B}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{06F47E90-88DA-43DB-A39A-D4D3D360CACA}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a098a1d0-59be-4c95-973b-f1f074551702"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7100c6aa-25bd-40e6-8956-736c4f270f2b"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e8f48fd-11f8-4248-a7ba-29722e53b8dc"

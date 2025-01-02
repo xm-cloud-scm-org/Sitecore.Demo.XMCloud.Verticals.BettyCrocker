@@ -1,0 +1,17 @@
+﻿---
+ID: "13cc2191-731a-4d05-b67f-273c9dcac65e"
+Parent: "ea4e5be2-a600-467c-8d60-17b9b6dc91fc"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/content/Verticals/BettyCrocker/Presentation/Placeholder Settings/Partial Design/Recipe Content
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-article-content"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a6fb3ea-8301-483e-b4e3-ac04ae9d74b6"

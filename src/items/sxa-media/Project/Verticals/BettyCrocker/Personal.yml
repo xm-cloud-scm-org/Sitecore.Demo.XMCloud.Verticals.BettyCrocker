@@ -1,0 +1,17 @@
+﻿---
+ID: "c8ee170c-5712-4b1f-ab81-3b38cd44a5cb"
+Parent: "1a08f419-64d0-4d0e-b2e1-b0641eda8548"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/BettyCrocker/Personal
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c89f535-f17a-4765-87de-b237a947e16f"

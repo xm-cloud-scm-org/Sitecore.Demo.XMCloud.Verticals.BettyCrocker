@@ -1,0 +1,62 @@
+﻿---
+ID: "4ab87d4a-bd3e-4a01-a791-26c2569b3dd5"
+Parent: "bf8cb46a-9de4-45f4-9519-72f0d6e0db3b"
+Template: "54db209d-cd0f-49d9-ae4e-ecb65d72cc4d"
+Path: "/sitecore/content/Verticals/BettyCrocker/Home/Data/Carousel - Business/Item 3"
+SharedFields:
+- ID: "ba78a3c0-7c60-40ba-8d42-6bf559d9ca72"
+  Hint: Image
+  Value: |
+    <image mediaid="{22A97D51-33B7-4D7F-9845-4E6A70ECE559}" alt="Man sitting at table with coffee" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Effective employee management
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{9BF396AC-7BCD-45C7-929A-A3A74FE9DC96}" querystring="" anchor="" target="" title="" linktype="internal" text="Learn more" url="/Verticals/BettyCrocker/Home/how-to/employee-management" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97f24e84-21b2-45e4-8250-c5eb288c794a"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Supercharge your workforce with our comprehensive employee management strategies.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Gestion efficace des employés
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{9BF396AC-7BCD-45C7-929A-A3A74FE9DC96}" querystring="" anchor="" target="" title="" linktype="internal" text="En savoir plus" url="/Verticals/BettyCrocker/Home/how-to/employee-management" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c6ca23ab-bc6e-472a-b889-8131b5fd827a"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Boostez votre effectif avec nos stratégies complètes de gestion des employés.</p>
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: 効果的な従業員管理
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{9BF396AC-7BCD-45C7-929A-A3A74FE9DC96}" querystring="" anchor="" target="" title="" linktype="internal" text="さらに詳しく" url="/Verticals/BettyCrocker/Home/how-to/employee-management" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e01719f5-be71-477a-b397-fac0827fdbd5"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>当社の包括的な従業員管理戦略で、従業員を強化しましょう。</p>

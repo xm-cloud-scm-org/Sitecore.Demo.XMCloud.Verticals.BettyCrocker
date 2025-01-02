@@ -1,0 +1,27 @@
+﻿---
+ID: "d90b140d-0b54-4464-acd8-c3bc5b2729ba"
+Parent: "2358c666-09d7-409d-9e9d-8ffe55e00fb3"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/BettyCrocker/Home/recipes/introducing-innovative-financial-solutions/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4a90c8d-c27c-4045-855d-8c4d2784bd28"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "230a6dbd-d706-4dec-84ee-45de60bffb62"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "230a6dbd-d706-4dec-84ee-45de60bffb62"

@@ -1,0 +1,31 @@
+﻿---
+ID: "19e3d111-6875-438a-818f-bd408c083e60"
+Parent: "ea4e5be2-a600-467c-8d60-17b9b6dc91fc"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/content/Verticals/BettyCrocker/Presentation/Placeholder Settings/Partial Design/Author Content
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-author-content"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40e455d0-8737-4755-ad0f-2f23a9a37615"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ffd83ed2-e428-4bde-b35e-b298984f4965"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ffd83ed2-e428-4bde-b35e-b298984f4965"

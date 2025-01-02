@@ -1,0 +1,31 @@
+﻿---
+ID: "abf1cbe6-a869-4f37-b2c7-595f09a1f044"
+Parent: "df019bb7-d5fc-4354-a495-d5ea3dbfaabc"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/content/Verticals/BettyCrocker/Presentation/Page Branches/Business Content Page/Content Page
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: apps/32x32/logviewer.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c11dad2b-17b4-460d-9fef-c8b34cfd8d22"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca60ded3-54d8-40f4-b238-485977755e6d"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca60ded3-54d8-40f4-b238-485977755e6d"

@@ -1,0 +1,13 @@
+﻿---
+ID: "bfdbc620-1cc5-49ee-9e7a-1c7310940785"
+Parent: "2b9dd50c-9669-4d92-aa98-9a1f93573d4b"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/BettyCrocker/Sitemaps/BettyCrocker
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca697e95-76e4-4528-afff-e9b9a122322c"

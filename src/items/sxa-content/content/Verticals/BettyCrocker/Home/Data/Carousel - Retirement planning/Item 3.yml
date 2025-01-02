@@ -1,0 +1,62 @@
+﻿---
+ID: "1f80a42d-dadc-476a-a023-b55c833fe124"
+Parent: "5b8a84ce-4810-41f8-b670-bece8de9b9da"
+Template: "54db209d-cd0f-49d9-ae4e-ecb65d72cc4d"
+Path: "/sitecore/content/Verticals/BettyCrocker/Home/Data/Carousel - Retirement planning/Item 3"
+SharedFields:
+- ID: "ba78a3c0-7c60-40ba-8d42-6bf559d9ca72"
+  Hint: Image
+  Value: |
+    <image mediaid="{D39CDFEA-A4D0-4A10-9837-0CDEBA0258B6}" alt="Kids walking and playing with woman" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Plan for peace of mind
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{CA95F02C-AFCD-42BD-8CC2-37989C47EDF9}" querystring="" anchor="" target="" title="" linktype="internal" text="Learn more" url="/Verticals/BettyCrocker/Home/lets-get-making/estate-planning" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c9552239-78aa-42cb-a7ab-268f93ece8ca"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Learn about our comprehensive estate planning services, designed to protect your assets and provide for your loved ones.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Planifiez pour la tranquillité d'esprit
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{CA95F02C-AFCD-42BD-8CC2-37989C47EDF9}" querystring="" anchor="" target="" title="" linktype="internal" text="En savoir plus" url="/Verticals/BettyCrocker/Home/lets-get-making/estate-planning" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d66e6f78-687d-49aa-9fa0-acffee09b98a"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Découvrez nos services complets de planification successorale, conçus pour protéger vos actifs et prendre soin de vos proches.</p>
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: 安心のプラン
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{CA95F02C-AFCD-42BD-8CC2-37989C47EDF9}" querystring="" anchor="" target="" title="" linktype="internal" text="さらに詳しく" url="/Verticals/BettyCrocker/Home/lets-get-making/estate-planning" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d45b1a9f-1972-420e-b0ef-45659cb92d52"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>お客様の資産を保護し、大切なご家族のために提供することを目的とした包括的な財産設計サービスについてご紹介します。</p>

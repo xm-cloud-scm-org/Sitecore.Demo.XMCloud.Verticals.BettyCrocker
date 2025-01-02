@@ -1,0 +1,27 @@
+﻿---
+ID: "bc4672c7-dcbb-4c13-a9ef-6b3a8baedd4d"
+Parent: "034e412a-03d5-47f7-b041-9c87fb51c2ac"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Verticals/BettyCrocker/Data/Promos/Promo CTA
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40a1d9dc-02a2-4e25-b340-1b9dbe0228db"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "406e25b9-8040-449c-be17-acf72513b53b"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "406e25b9-8040-449c-be17-acf72513b53b"

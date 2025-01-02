@@ -1,0 +1,74 @@
+﻿---
+ID: "64ebb6d0-65bc-4ff6-a844-22cd66d21af2"
+Parent: "bc4672c7-dcbb-4c13-a9ef-6b3a8baedd4d"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: /sitecore/content/Verticals/BettyCrocker/Data/Promos/Promo CTA/Promo CTA 1
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="{D979B3C5-D8B0-4DB4-9B8B-FDF9E61F3AC4}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: "Santa-approved sweets"
+    - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
+      Hint: Eyebrow
+      Value: Recipes
+    - ID: "32f3e9b1-c441-4285-a063-0897453f37e2"
+      Hint: Link2
+      Value: 
+    - ID: "507ba267-78fc-42f1-ac96-a1cb769b6de6"
+      Hint: Link
+      Value: |
+        <link text="Read more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{0921A796-624B-48F3-9115-865231DA05C0}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "127bf29b-1009-4bab-a51d-54f8bb9cfd99"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: Treats that are so sweet and easy, they’re sure to earn you a #1 spot on Santa’s nice list.
+    - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
+      Hint: Subtitle
+      Value: 
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Réduire l'écart de richesse
+    - ID: "507ba267-78fc-42f1-ac96-a1cb769b6de6"
+      Hint: Link
+      Value: |
+        <link class="" querystring="" id="{DD725CD0-6E30-4E97-A0B2-0CDAF187A3AF}" anchor="" target="" title="" linktype="internal" text="En savoir plus" url="/Verticals/BettyCrocker/Home/recipes/closing-the-wealth-gap" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec8f6dfc-5d70-4424-a2a5-b318b5cb6212"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: Des conseils pratiques pour créer des voies équitables de croissance des revenues.
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: より豊かになるために
+    - ID: "507ba267-78fc-42f1-ac96-a1cb769b6de6"
+      Hint: Link
+      Value: |
+        <link class="" id="{DD725CD0-6E30-4E97-A0B2-0CDAF187A3AF}" querystring="" anchor="" target="" title="" linktype="internal" text="もっと読む" url="/Verticals/BettyCrocker/Home/recipes/closing-the-wealth-gap" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da1b35a1-84a8-49cb-8224-fc4ba319021a"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: 収入増加のための公平な道筋を作るのに役立つ実用的なアドバイス。

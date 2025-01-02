@@ -1,0 +1,60 @@
+﻿---
+ID: "ded91fce-c159-4f05-98c9-3272693dce41"
+Parent: "0921a796-624b-48f3-9115-865231da05c0"
+Template: "e6856581-a59f-4eb6-97d9-3c78826f24fc"
+Path: /sitecore/content/Verticals/BettyCrocker/Home/recipes/Bisquick Pancakes
+SharedFields:
+- ID: "5e387695-9a7c-4e82-a89c-8384928af97c"
+  Hint: Thumbnail
+  Value: |
+    <image dam-id="39699" thumbnailsrc="https://gmi.sitecoresandbox.cloud/api/public/content/9837a5485e6042ad81be851d18e6345f?v=568b5f27" src="https://gmi.sitecoresandbox.cloud/api/public/content/d623789d526a413296b7b1286753acc2?v=e4859872" mediaid="" dam-content-type="Image" alt="lgXOlhoseEu8vgoAmzJXoA_webp_base.webp" height="155" width="276" />
+- ID: "9b0343a9-9f69-4e0f-a059-9215bc8fe422"
+  Hint: EntityIdentifier
+  Value: TM5BUYQwTeqCYWW3jnNGag
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Bisquick Pancakes
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "14ed42a8-e7fd-4164-9f77-d1f041ec8693"
+      Hint: Title
+      Value: Bisquick Pancakes
+    - ID: "2442a61e-1deb-4e72-9dc5-8fed8406dc71"
+      Hint: TotalTime
+      Value: 20
+    - ID: "360e41db-ddb0-41ed-bdab-b033c5e261d1"
+      Hint: Excerpt
+      Value: Let's make every celebration unforgettable with our Bisquick pancake recipe, designed to add joy and create lasting memories during birthdays, anniversaries, and family gatherings. 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Bisquick Pancakes
+    - ID: "5d40d955-efd3-449f-be35-76b977a2c534"
+      Hint: NutritionalFacts
+      Value: |
+        <ul><li style="margin-left:0px;">100 <strong>Calories</strong></li><li style="margin-left:0px;">3 1/2g <strong>Total Fat</strong></li><li style="margin-left:0px;">2g <strong>Protein</strong></li><li style="margin-left:0px;">14g<strong>Total Carbohydrate</strong></li><li style="margin-left:0px;">2g <strong>Sugars</strong></li></ul>
+    - ID: "7a3d5840-19ca-4e0b-86ad-5b84551fba64"
+      Hint: Ingredients
+      Value: |
+        <ul><li><span style="color:rgb(51,51,51);">2</span> <a href="https://www.bettycrocker.com/products/bisquick/bisquick-original"><strong><u>cups Original Bisquick™ Baking Mix</u></strong></a></li><li><span style="color:rgb(51,51,51);">1</span> cup milk</li><li><span style="color:rgb(51,51,51);">2</span> tablespoons vegetable oil</li><li><span style="color:rgb(51,51,51);">2</span> eggs</li></ul>
+    - ID: "7e59e6c1-bef8-4c92-a4fe-fd68eeb9c06d"
+      Hint: PrepTime
+      Value: 10
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "95362428-a5e6-47f6-8116-72f2f99d78dd"
+    - ID: "c2326bf1-edc6-4c01-94e7-6458b2fedeb6"
+      Hint: CookingInstructions
+      Value: "<p><strong>Step 1</strong><br>Grease or spray griddle or skillet. Heat over medium-high heat or electric griddle to 375°F. (Surface is ready when a few drops of water sprinkled on it dance and disappear.)<br><strong>Step 2</strong><br>Stir all ingredients until blended. Pour by slightly less than 1/4 cupfuls onto hot griddle.<br><strong>Step 3</strong><br>Cook until edges are dry; about 1 minute 30 seconds. Turn; cook 1 minute 30 seconds or until golden.</p>"
+    - ID: "f5960e1a-7b8a-4595-8572-e9eebb4a5147"
+      Hint: Servings
+      Value: 4
+    - ID: "fb7762da-3fb3-4af3-be31-91739fabaa7c"
+      Hint: CookTime
+      Value: 10

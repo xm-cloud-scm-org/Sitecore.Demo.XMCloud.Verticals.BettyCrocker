@@ -1,0 +1,68 @@
+﻿---
+ID: "bc511099-d442-4ff0-95a8-10ba9026c0be"
+Parent: "5285eb77-92e5-4402-866a-74f9888a99fc"
+Template: "54db209d-cd0f-49d9-ae4e-ecb65d72cc4d"
+Path: "/sitecore/content/Verticals/BettyCrocker/Home/Data/Carousel - Default/Item 1"
+SharedFields:
+- ID: "afea6373-024f-4b89-a68b-83115e3701d8"
+  Hint: Video
+  Value: 
+- ID: "ba78a3c0-7c60-40ba-8d42-6bf559d9ca72"
+  Hint: Image
+  Value: |
+    <image mediaid="{ED9B5732-C3B6-4A22-A64C-F86EBBADB7B7}" />
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{321B71A6-169C-4A12-905A-0BF5F5CCD7E3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Holidays + Celebrations
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link text="Explore holiday recipes" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{98E6D152-5C94-4217-B20C-ED1528A27E8B}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "34c5ad25-2fbf-4376-80cb-274be7673f42"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Celebrate a special time of year with special recipes.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: "Il n'y a qu'un seul avenir parfait - le vôtre"
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{83567D2F-C7C3-4E8D-BE33-208515D79605}" querystring="" anchor="" target="" title="" linktype="internal" text="Explorez la banque au quotidien" url="/Verticals/BettyCrocker/Home/products" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca25f0bd-2a94-445e-b229-53d342ad753b"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Commencez en ligne et accédez à notre gamme de services financiers personnalisés.</p>
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: 完璧な未来はただ一つ、あなたのものだ
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{CF8C1035-0F27-48F9-A962-1340E0A56494}" querystring="" anchor="" target="" title="" linktype="internal" text="デイリーバンキング" url="/Verticals/BettyCrocker/Home/products/everyday-banking" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b2f30c3-db0e-49bd-b59c-251cafeb54bb"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>オンラインで始めて、私たちのパーソナライズされた金融サービスのスイートをご利用ください。</p>

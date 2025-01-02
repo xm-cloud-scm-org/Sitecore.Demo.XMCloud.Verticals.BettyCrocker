@@ -1,0 +1,102 @@
+﻿---
+ID: "09c06aa9-7126-4a66-ba31-b598fae82e6b"
+Parent: "2d24bd78-b68f-4e29-8dde-60071cfc8500"
+Template: "1812bf3e-6bdd-466d-99b2-0d7cebb020fc"
+Path: /sitecore/content/Verticals/BettyCrocker/Home/products/borrowing/Data/Two Column CTA 1
+SharedFields:
+- ID: "168fed07-0f41-44f5-a14e-f134e16b1477"
+  Hint: Image1
+  Value: |
+    <image mediaid="9924B1DD-FDF9-4490-99CD-83A38590B628" alt="Credit card on top of cash" height="" width="" hspace="" vspace="" />
+- ID: "41c85ac6-5f19-48ac-9dfb-e81d5f1450f6"
+  Hint: Image2
+  Value: |
+    <image mediaid="AE1AE710-74D3-45CB-8404-FA428DC3462A" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "301fab64-5268-445d-8380-6b43861bb434"
+      Hint: Link1
+      Value: |
+        <link class="" id="{0D565379-9DF9-4888-95EC-AE02ADA5AC75}" querystring="" anchor="" target="" title="" linktype="internal" text="Sign up today" url="/Verticals/BettyCrocker/Home/products/borrowing/credit-cards" />
+    - ID: "4e43fdc3-7a40-469c-a93a-231545ee01e9"
+      Hint: Title1
+      Value: Credit cards
+    - ID: "53845417-9058-4342-90a9-50783ffd8c25"
+      Hint: Link2
+      Value: |
+        <link class="" id="{7E5E7750-8F2D-4DF4-AB1A-9A5C6825350E}" querystring="" anchor="" target="" title="" linktype="internal" text="Apply now" url="/Verticals/BettyCrocker/Home/products/borrowing/line-of-credit" />
+    - ID: "56a3b6a6-bd8b-4d2e-a86d-f791169ebe7b"
+      Hint: Title2
+      Value: Line of credit
+    - ID: "5eacc805-137b-41d5-a43c-67d981abf6f9"
+      Hint: Text1
+      Value: Unlock a world of possibilities today with our premium credit card offerings.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6e1bf4ee-fc3b-42a1-a32f-7b75e4fa80ea"
+    - ID: "eeb59bf3-72d2-4e49-9a37-3902b7a236a9"
+      Hint: Text2
+      Value: Gain access to funds whenever you need them with our versatile personal line of credit.
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "301fab64-5268-445d-8380-6b43861bb434"
+      Hint: Link1
+      Value: |
+        <link class="" id="{0D565379-9DF9-4888-95EC-AE02ADA5AC75}" querystring="" anchor="" target="" title="" linktype="internal" text="Abonnez-vous" url="/Verticals/BettyCrocker/Home/products/borrowing/credit-cards" />
+    - ID: "4e43fdc3-7a40-469c-a93a-231545ee01e9"
+      Hint: Title1
+      Value: Cartes de crédit
+    - ID: "53845417-9058-4342-90a9-50783ffd8c25"
+      Hint: Link2
+      Value: |
+        <link class="" id="{7E5E7750-8F2D-4DF4-AB1A-9A5C6825350E}" querystring="" anchor="" target="" title="" linktype="internal" text="Faites votre demande" url="/Verticals/BettyCrocker/Home/products/borrowing/line-of-credit" />
+    - ID: "56a3b6a6-bd8b-4d2e-a86d-f791169ebe7b"
+      Hint: Title2
+      Value: Ligne de crédit
+    - ID: "5eacc805-137b-41d5-a43c-67d981abf6f9"
+      Hint: Text1
+      Value: Débloquez un monde de possibilités dès aujourd'hui avec nos offres de cartes de crédit premium.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "577bceb6-2062-4547-8aec-27291f7ad9c1"
+    - ID: "eeb59bf3-72d2-4e49-9a37-3902b7a236a9"
+      Hint: Text2
+      Value: Accédez à des fonds quand vous en avez besoin avec notre ligne de crédit personnelle polyvalente.
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "301fab64-5268-445d-8380-6b43861bb434"
+      Hint: Link1
+      Value: |
+        <link class="" id="{0D565379-9DF9-4888-95EC-AE02ADA5AC75}" querystring="" anchor="" target="" title="" linktype="internal" text="今すぐ登録" url="/Verticals/BettyCrocker/Home/products/borrowing/credit-cards" />
+    - ID: "4e43fdc3-7a40-469c-a93a-231545ee01e9"
+      Hint: Title1
+      Value: クレジットカード
+    - ID: "53845417-9058-4342-90a9-50783ffd8c25"
+      Hint: Link2
+      Value: |
+        <link class="" id="{7E5E7750-8F2D-4DF4-AB1A-9A5C6825350E}" querystring="" anchor="" target="" title="" linktype="internal" text="今すぐ申し込む" url="/Verticals/BettyCrocker/Home/products/borrowing/line-of-credit" />
+    - ID: "56a3b6a6-bd8b-4d2e-a86d-f791169ebe7b"
+      Hint: Title2
+      Value: 信用枠
+    - ID: "5eacc805-137b-41d5-a43c-67d981abf6f9"
+      Hint: Text1
+      Value: プレミアム・クレジットカードで、今すぐ可能性の扉を開きましょう。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c74eb999-e411-4923-9ab1-1a47f49d0e9b"
+    - ID: "eeb59bf3-72d2-4e49-9a37-3902b7a236a9"
+      Hint: Text2
+      Value: 多目的にご利用いただける個人向け融資枠で、必要なときにいつでも資金をご利用いただけます。

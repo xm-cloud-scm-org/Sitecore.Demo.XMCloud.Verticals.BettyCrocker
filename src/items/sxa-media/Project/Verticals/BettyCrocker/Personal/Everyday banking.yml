@@ -1,0 +1,17 @@
+﻿---
+ID: "e7f39489-00ad-426a-9933-676b5727b084"
+Parent: "c8ee170c-5712-4b1f-ab81-3b38cd44a5cb"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/BettyCrocker/Personal/Everyday banking
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97b12b6b-8f3f-460d-8416-2b091f80918d"

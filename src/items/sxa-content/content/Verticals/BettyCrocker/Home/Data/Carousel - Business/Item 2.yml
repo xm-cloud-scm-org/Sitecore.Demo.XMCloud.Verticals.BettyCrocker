@@ -1,0 +1,65 @@
+﻿---
+ID: "7550ca08-8687-4e68-a64f-b0dc1e9becbf"
+Parent: "bf8cb46a-9de4-45f4-9519-72f0d6e0db3b"
+Template: "54db209d-cd0f-49d9-ae4e-ecb65d72cc4d"
+Path: "/sitecore/content/Verticals/BettyCrocker/Home/Data/Carousel - Business/Item 2"
+SharedFields:
+- ID: "ba78a3c0-7c60-40ba-8d42-6bf559d9ca72"
+  Hint: Image
+  Value: |
+    <image mediaid="{53136162-35CA-427D-9D51-EB35EA4F16E4}" alt="Woman smiling in doorframe" height="" width="" hspace="" vspace="" />
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{321B71A6-169C-4A12-905A-0BF5F5CCD7E3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Connecting you to worldwide opportunities
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{D6D85647-656A-4ED8-B060-7984140DD543}" querystring="" anchor="" target="" title="" linktype="internal" text="Get started online" url="/Verticals/BettyCrocker/Home/how-to/international-banking" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "07616c67-b3db-44e3-8886-30dacdaa34ad"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Unlock the power of global finance with our suite of international banking services.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Vous connecter à des opportunités mondiales
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{D6D85647-656A-4ED8-B060-7984140DD543}" querystring="" anchor="" target="" title="" linktype="internal" text="Commencez en ligne" url="/Verticals/BettyCrocker/Home/how-to/international-banking" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dcbc52ba-f0aa-4e55-bee9-9f81ca5d9966"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Débloquez le potentiel de la finance mondiale avec notre gamme de services bancaires internationaux.</p>
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: 世界中のビジネスチャンスにつながる
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{D6D85647-656A-4ED8-B060-7984140DD543}" querystring="" anchor="" target="" title="" linktype="internal" text="オンラインで始める" url="/Verticals/BettyCrocker/Home/how-to/international-banking" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "60fcbbcb-18d5-4bee-8d24-4cc306fb1e6f"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>国際的なバンキング・サービスで、グローバル・ファイナンスのパワーを引き出しましょう。</p>

@@ -1,0 +1,27 @@
+﻿---
+ID: "6996aa5d-0524-4590-b60f-dedc64cbe29a"
+Parent: "034e412a-03d5-47f7-b041-9c87fb51c2ac"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Verticals/BettyCrocker/Data/Promos/App Promos
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "47669380-a5da-4689-98c8-01f726043c31"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dcbde4d5-507a-4045-8da6-e8930ef7f40e"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dcbde4d5-507a-4045-8da6-e8930ef7f40e"
