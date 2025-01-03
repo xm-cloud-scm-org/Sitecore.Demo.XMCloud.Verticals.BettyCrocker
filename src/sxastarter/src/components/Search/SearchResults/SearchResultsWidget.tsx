@@ -13,6 +13,7 @@ import SearchFacets from '../components/SearchFacets/SearchFacets';
 import SearchPagination from '../components/SearchPagination/SearchPagination';
 import SortOptions from '../components/SortOrder/SortOrder';
 import Spinner from '../components/Spinner/Spinner';
+import { useState } from 'react';
 
 export type ArticleModel = {
   id: string;
@@ -62,8 +63,16 @@ export const SearchResultsComponent = ({
       keyphrase: defaultKeyphrase,
     },
   });
+
+  const [hasAnswer, setHasAnswer] = useState(false);
   const totalPages = Math.ceil(totalItems / itemsPerPage);
   const keyphraseChangeFn = debounce((e) => {
+    if (e.target.value?.toLowerCase().search('how do i cook pancake') !== -1) {
+      setHasAnswer(true);
+    } else {
+      setHasAnswer(false);
+    }
+
     onKeyphraseChange({
       keyphrase: e.target.value,
     });
@@ -94,6 +103,18 @@ export const SearchResultsComponent = ({
               <SearchFacets facets={facets} />
             </section>
             <section className="sitecore-right-area">
+              {hasAnswer && (
+                <div className="position-left sitecore-preview-search-answer">
+                  <h3>How do I cook pancakes?</h3>
+                  <p>
+                    Mix flour, baking powder, sugar, milk, eggs, and melted butter into a smooth
+                    batter, then let it rest for a few minutes. Pour the batter onto a hot, greased
+                    skillet, cook until bubbles form and flip to cook the other side until golden
+                    brown.
+                  </p>
+                </div>
+              )}
+
               {/* Sort Select */}
               <section className="sitecore-right-top-area">
                 {totalItems && (
